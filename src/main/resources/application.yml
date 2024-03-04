@@ -1,0 +1,6 @@
+server:
+  port: 9994
+
+spring:
+  profiles:
+    active: skr

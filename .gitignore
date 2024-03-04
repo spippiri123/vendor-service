@@ -1,0 +1,38 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA project files
+.idea/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Maven generated files and folders
+target/
+*.iml
+
+# Gradle generated files and folders
+build/
+.gradle/
+
+# IDE specific files
+.vscode/
+*.ipr
+*.iws
+*.iml
+*.idea/
+*.classpath
+*.project
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# Operating System files
+.DS_Store
+Thumbs.db

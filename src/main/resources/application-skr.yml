@@ -1,0 +1,18 @@
+server:
+  port: 9994
+
+spring:
+  oauth2:
+    resourceserver:
+      jwt:
+        issuer-uri: 
+        user-info-uri: 
+        jwk-set-uri: 
+        user-name-attribute: 
+
+  # Logging level for security-related packages
+  logging:
+    level:
+      org:
+        springframework:
+          security:DEBUG
