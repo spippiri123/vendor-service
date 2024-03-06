@@ -8,14 +8,4 @@ spring:
         issuer-uri:
         user-info-uri: 
         jwk-set-uri: 
-        user-name-attribute: 
-    client:
-      registration:
-        cognito:
-          scope: 
-
-
-authentication:
-  oauth2:
-    jwks: 
-    issuer: 
+        user-name-attribute:
